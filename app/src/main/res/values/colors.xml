@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="movie_card">#621208</color>
+    <color name="average_vote">#FF4081</color>
+    <color name="text">#506374</color>
+    <color name="subtitle">#1a2379</color>
+    <color name="app_color_primary">#387b3e</color>
+    <color name="tab_color">#e2eec8</color>
+</resources>
